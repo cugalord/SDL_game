@@ -1,5 +1,4 @@
 # The Green Pirate
-A C++ & SDL2 implementation of Conway's Game of Life.
 # The game
 The goal is to collect all the trash, and stop the opponents from depositing the trash into the sea. The game has 3 levels.
 
